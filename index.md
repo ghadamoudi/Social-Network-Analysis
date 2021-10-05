@@ -19,3 +19,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[repository settings](https://github.com/ghadamoudi/Social-Network-Analysis/settings/pages). 
